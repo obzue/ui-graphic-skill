@@ -1,6 +1,6 @@
 # UI graphic skill
 
-Banner and portrait system for Northroom community profiles.
+Banner and portrait system for ObzueAI Independent community profiles.
 
 Skill text is in `SKILL.md`. House artist banner and portrait files are in `assets/`.
 

@@ -52,7 +52,7 @@ If a house file 404s, `ArtFrame` falls back to the plate. Never leave a broken i
 
 ## Rules when you change the art
 
-- Stay inside the Northroom palette: paper `#f4efe6`, ink `#1c1915`, copper `#c24b24`. Plate fields may shift hue; the accent does not.
+- Stay inside the ObzueAI Independent palette: paper `#f4efe6`, ink `#1c1915`, copper `#c24b24`. Plate fields may shift hue; the accent does not.
 - Banners are places or objects. Portraits are fictional musicians, illustrated, not photographs of real people.
 - No text, logos, or watermarks inside the image files. Type is set in the component.
 - Do not add a second typeface.
